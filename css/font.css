@@ -1,3 +1,11 @@
-.jetbrains{
-  font-family: 'JetBrains Mono', monospace;
-}
+.light_font
+  {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 200;
+  }
+
+.regular_font
+  {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 400;
+  }
