@@ -1,3 +1,9 @@
+.ultra_light_font
+  {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 100;
+  }
+
 .light_font
   {
     font-family: 'JetBrains Mono', monospace;

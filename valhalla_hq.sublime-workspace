@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Jo",
+				"JobPostAdmin"
+			],
+			[
+				"job_po",
+				"job_post_status"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"job",
+				"job_title"
+			],
+			[
+				"new",
+				"new_job_post"
+			],
+			[
+				"ne",
+				"new_job_post"
+			],
+			[
+				"r",
+				"register"
+			],
+			[
+				"job_",
+				"job_title"
+			],
+			[
+				"card",
+				"card3"
+			],
+			[
+				"text-",
+				"text-muted"
+			],
+			[
+				"marb",
+				"marble_mountain"
+			],
+			[
+				"bg-",
+				"bg-dark"
+			],
+			[
+				"bg-li",
+				"bg-light-grey"
+			],
+			[
+				"atted",
+				"attendance"
+			],
+			[
+				"att",
+				"attendance_history_customer"
+			],
+			[
+				"cus",
+				"customer_history"
+			],
+			[
+				"bg-light",
+				"bg-light-black"
+			],
+			[
+				"custome",
+				"customer_notes"
+			],
+			[
+				"te",
+				"text-muted"
+			],
+			[
+				"Customer",
+				"CustomerNotes"
+			],
+			[
+				"txt-",
+				"txt-subheading"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <!-- Basic Page –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <meta charset=\"utf-8\">\n    <title>valhalla capital co.</title>\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n    <!-- Mobile Specific Metas –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- Fonts –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\">\n    <link href=\"https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap\" rel=\"stylesheet\">\n    <link href=\"https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&display=swap\" rel=\"stylesheet\">\n    <!-- CSS –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <link rel=\"stylesheet\" href=\"css/normalize.css\">\n    <link rel=\"stylesheet\" href=\"css/skeleton.css\">\n    <link rel=\"stylesheet\" href=\"css/custom.css\">\n    <link rel=\"stylesheet\" href=\"css/font.css\">\n    <!-- Favicon –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\">\n  </head>\n  <body class=\"bg-black text-white\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"one-half column\" style=\"margin-top: 25%\">\n          <h3 class=\"playfair\">valhalla capital co.</h3>\n          <p>\n            <div class=\"playfair\">\n              we build cool things\n            </div>\n          </p>\n\n          <a class=\"button button-primary\" href=\"mailto:hello@valhallahq.com\" target=\"_blank\">Get in touch</a>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>\n\n\n\n",
+			"file": "index.html",
+			"file_size": 3000,
+			"file_write_time": 132947767274269910,
+			"settings":
+			{
+				"buffer_size": 1690,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "we"
+					},
+					"AwAAABkIAAAAAAAAGggAAAAAAAAAAAAAGggAAAAAAAAaCAAAAAAAACAAAABsb2dpc3RpY3MgKyBjYXBpdGFsICYgdGVjaG5vbG9neRoIAAAAAAAAGwgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQgAAAAAAAA5CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " buil"
+					},
+					"BQAAABsIAAAAAAAAHAgAAAAAAAAAAAAAHAgAAAAAAAAdCAAAAAAAAAAAAAAdCAAAAAAAAB4IAAAAAAAAAAAAAB4IAAAAAAAAHwgAAAAAAAAAAAAAHwgAAAAAAAAgCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwgAAAAAAAAbCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " d"
+					},
+					"AgAAACAIAAAAAAAAIQgAAAAAAAAAAAAAIQgAAAAAAAAiCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAgAAAAAAAAgCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					2,
+					"left_delete",
+					null,
+					"AgAAACEIAAAAAAAAIQgAAAAAAAABAAAAZCAIAAAAAAAAIAgAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAIggAAAAAAAAiCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAACAIAAAAAAAAIQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAgAAAAAAAAgCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " cool"
+					},
+					"BQAAACEIAAAAAAAAIggAAAAAAAAAAAAAIggAAAAAAAAjCAAAAAAAAAAAAAAjCAAAAAAAACQIAAAAAAAAAAAAACQIAAAAAAAAJQgAAAAAAAAAAAAAJQgAAAAAAAAmCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQgAAAAAAAAhCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " things"
+					},
+					"BwAAACYIAAAAAAAAJwgAAAAAAAAAAAAAJwgAAAAAAAAoCAAAAAAAAAAAAAAoCAAAAAAAACkIAAAAAAAAAAAAACkIAAAAAAAAKggAAAAAAAAAAAAAKggAAAAAAAArCAAAAAAAAAAAAAArCAAAAAAAACwIAAAAAAAAAAAAACwIAAAAAAAALQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJggAAAAAAAAmCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					2,
+					"left_delete",
+					null,
+					"AgAAAM0EAAAAAAAAzQQAAAAAAAApAwAAICAgIDwhLS0gTmF2YmFyIOKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAtLT4KICAgIDwhLS0KICAJPG5hdiBjbGFzcz0ibmF2YmFyIj4KICAJICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogIAkgICAgPHVsIGNsYXNzPSJuYXZiYXItbGlzdCI+CiAgCSAgICAgIDxsaSBjbGFzcz0ibmF2YmFyLWl0ZW0iPjxhIGNsYXNzPSJuYXZiYXItbGluayIgaHJlZj0iIyI+SG9tZTwvYT48L2xpPgogIAkgICAgICA8bGkgY2xhc3M9Im5hdmJhci1pdGVtIj48YSBjbGFzcz0ibmF2YmFyLWxpbmsiIGhyZWY9IiMiPlByb2plY3RzPC9hPjwvbGk+CiAgCSAgICAgIDxsaSBjbGFzcz0ibmF2YmFyLWl0ZW0iPjxhIGNsYXNzPSJuYXZiYXItbGluayIgaHJlZj0iIyI+QWJvdXQ8L2E+PC9saT4KICAgICAgICAgIDxsaSBjbGFzcz0ibmF2YmFyLWl0ZW0iPjxhIGNsYXNzPSJuYXZiYXItbGluayIgaHJlZj0iIyI+Q2FyZWVyczwvYT48L2xpPgogICAgICAgIDwvdWw+CiAgCSAgPC9kaXY+CiAgCTwvbmF2PgogICAgLS0+CiAgICA8IS0tIFBhZ2UgTGF5b3V0IOKAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAk+KAkyAtLT7MBAAAAAAAAMwEAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAALgcAAAAAAADNBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"djan",
+				"Set Syntax: Django HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/core/templates/core/invoice.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/core/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/invoice/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/invoice/settings.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/explore/templates/explore/about.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/explore/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/explore/templates/explore/index.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/templates/base/base.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/core/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/explore/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/templates/base.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/invoice/.gitignore.exclude",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/templates/base/base.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/templates/explore/pricing.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/templates/explore/index.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/managers.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/jobs.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/forms.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/snowpedia/settings.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/accounts/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/accounts/forms.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/category.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/categories.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/templates/explore/terms.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/companies.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/post_success.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/job_post.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/add_job_post.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/static/css/modals.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/company.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/templates/explore/company.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/core/templates/core/resort.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/static/css/footers.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/templates/explore/index_archived.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/static/css/style.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/static/css/resort.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/explore/templates/explore/temp.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/static/css/features.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/snowpedia/snowpedia/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/dashboard.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/customers.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/memberships/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/customer.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/add_customer.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/templates/base/base-auth.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/forms.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/boxidy/settings.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/templates/customer_notes/customer_notes.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/templates/customer_history/attendance_history.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/templates/customer_history/attendance_history_customer.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/dashboard_mvp_archived.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/forms.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/templates/base/base-unauth.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/templates/customer_history/attendence_history.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_history/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/boxidy/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/templates/explore/faq_auth.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/templates/customer_transactions/add_transaction.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/templates/explore/index.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/templates/explore/about_auth.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/templates/explore/investors.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/templates/explore/invite.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/templates/explore/oops.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/templates/customer_notes/customer_notes_edit.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/explore/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/templates/customer_notes/customer_notes_create.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/users/templates/registration/logged_out.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/users/templates/registration/login.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/dashboard_mvp.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/dashboard_archived.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/static/css/table-style.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/static/css/style.css",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/account_settings/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/managers.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/forms.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/views.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/services.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_transactions/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/transactions/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/urls.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/forms.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/customer_notes/models.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/account_settings/admin.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/customer_notes_edit.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/customer_notes.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/customer_notes_create.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/templates/core/dashboard_child.html",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/core/services.py",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/.gitignore",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/boxidy/boxidy.sublime-workspace",
+		"/Users/kyle/Dropbox/Dev/Projects/Web/valhalla/index.html",
+		"/Users/kyle/Dropbox/Dev/projects/web/valhalla/test doc",
+		"/Users/kyle/.ssh/config"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1228,
+								1228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "valhalla_hq.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
